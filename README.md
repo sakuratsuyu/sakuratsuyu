@@ -1,8 +1,8 @@
-## Hi! Hi! Hi! 👋 I'm sakuratsuyu.
+# Hi! Hi! Hi! 👋 I'm sakuratsuyu.
 
 Now a computer science sophomore in Zhejiang University.
 
-### About Me
+## About Me
 
 - 🌱 I’m currently learning 3D computer vision and front-end.
 - 🐧 A user of **Arch Linux** with
@@ -19,10 +19,10 @@ Now a computer science sophomore in Zhejiang University.
 
 - 🔖 My Notebook is [here 🎒](https://sakuratsuyu.github.io/Note)
 
-### Status
+## Status
 
 <div align="center">
-  <img align="center" style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=sakuratsuyu&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" />
+  <img align="center" style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=sakuratsuyu&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" />
 
-  <img align="center" style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuratsuyu&hide_border=true&layout=compact&theme=gruvbox" />
+  <img align="center" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuratsuyu&hide_border=true&layout=compact&theme=gruvbox" />
 </div>
