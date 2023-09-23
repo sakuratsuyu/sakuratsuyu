@@ -1,12 +1,12 @@
 # Hi! Hi! Hi! 👋 I'm sakuratsuyu.
 
-Now a computer science sophomore in Zhejiang University.
+Now a computer science junior in Zhejiang University.
 
 ## About Me
 
-- 🌱 I’m currently learning 3D computer vision and front-end.
+- 🌱 I’m currently learning 3D computer vision.
 - 🐧 A user of **Arch Linux** with
-	- **i3wm** (But now considering to switch to dwm. 🤟)
+	- **i3wm** 
 	- **neovim**. (Don't code with an explorer!👻)
 	- My config [📂 dotfiles](https://github.com/sakuratsuyu/.dotfiles).
 	- Always glad to talk about these issues!
