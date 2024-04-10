@@ -4,7 +4,7 @@ Now a computer science junior in Zhejiang University.
 
 ## About Me
 
-- 🌱 I’m currently learning 3D computer vision.
+- 🌱 I’m currently learning computer graphics and 3D computer vision, especially on rendering topic.
 - 🐧 A user of **Arch Linux** with
 	- **i3wm** 
 	- **neovim**. (Don't code with an explorer!👻)
