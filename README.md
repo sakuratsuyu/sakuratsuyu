@@ -1,22 +1,10 @@
-# Hi! Hi! Hi! 👋 I'm sakuratsuyu.
+# Portfolio 
 
-Now a computer science junior in Zhejiang University.
+Master 1st year in Zhejiang University.
 
 ## About Me
 
 - 🌱 I’m currently learning computer graphics and 3D computer vision, especially on rendering topic.
-- 🐧 A user of **Arch Linux** with
-	- **i3wm** 
-	- **neovim**. (Don't code with an explorer!👻)
-	- My config [📂 dotfiles](https://github.com/sakuratsuyu/.dotfiles).
-	- Always glad to talk about these issues!
-
-	<div align="center">	
-		<img style="height: 50px" src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4"/>
-		<img style="height: 50px" src="https://avatars.githubusercontent.com/u/7904352?s=200&v=4" />
-		<img style="height: 50px" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4"> 
-	</div>
-
 - 🔖 My Notebook is [here 🎒](https://sakuratsuyu.github.io/Note).
 
 ## Status
